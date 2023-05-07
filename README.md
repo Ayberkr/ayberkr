@@ -1,7 +1,5 @@
 ### Hi there, I'm Ayberk! 👋
 
-![bg4](https://png.pngtree.com/thumb_back/fh260/background/20201104/pngtree-technology-background-binary-computer-code-vector-design-image_458702.jpg)
-
 - 🔭 I’m currently working on AI(with Javascript)
 - 🌱 I’m currently learning Python
 - 💬 Ask me about HTML/CSS/JS
