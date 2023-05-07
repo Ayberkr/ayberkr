@@ -1,7 +1,7 @@
 ### Hi there, I'm Ayberk! 👋
 
 - 🔭 I’m currently working on ChatbotAI(Javascript)
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Python
 - 💬 Ask me about HTML/CSS/JS
 - 😄 Pronouns: he/him
 
